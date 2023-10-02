@@ -1,0 +1,12 @@
+shift+right click to open power shell in current folder location
+pip install numpy
+pip install jupyter
+
+to run jupyter Type:
+python -m notebook in powershell / jupyter notebook
+
+
+to run commands in jypter notebook:
+press shift+enter to run commands in sequence just like r programming cell by cell execution
+
+import numpy as np (to use numpy)
